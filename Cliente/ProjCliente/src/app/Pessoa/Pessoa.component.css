@@ -1,0 +1,15 @@
+.btnTable {
+  margin-left: 2px;
+}
+
+.box {
+  width: 70%;
+  position: absolute;
+  margin: auto;
+}
+
+.cxDireita {
+  position: relative;
+  left: 72%;
+  width: 28%;
+}

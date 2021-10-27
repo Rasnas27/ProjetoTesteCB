@@ -15,3 +15,9 @@ C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\obj\Debug\
 C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\obj\Debug\netcoreapp2.1\Cliente.dll
 C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\obj\Debug\netcoreapp2.1\Cliente.pdb
 C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\obj\Debug\netcoreapp2.1\Cliente.genruntimeconfig.cache
+C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\bin\Debug\netcoreapp2.1\ProjCliente\angular.json
+C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\bin\Debug\netcoreapp2.1\ProjCliente\package-lock.json
+C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\bin\Debug\netcoreapp2.1\ProjCliente\package.json
+C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\bin\Debug\netcoreapp2.1\ProjCliente\tsconfig.app.json
+C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\bin\Debug\netcoreapp2.1\ProjCliente\tsconfig.json
+C:\Users\Basis Tecnologia\Desktop\Treino\COCOBAMBU\ClientesCB\Cliente\bin\Debug\netcoreapp2.1\ProjCliente\tsconfig.spec.json

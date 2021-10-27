@@ -1,0 +1,34 @@
+<div class="form-control box">
+  <table class="table table-striped">
+    <thead class="thead-dark">
+      <tr>
+        <th>Nome</th>
+        <th>E-mail</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let pessoa of Pessoa">
+        <td>{{pessoa.name}}</td>
+        <td>{{pessoa.email}}</td>
+        <td class="btnTable">
+          <button type="button" class="btn btn-primary btn-sm ">Editar</button>
+          <button type="button" class="btn btn-danger btn-sm ">Excluir</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="form-inline">
+  <form class="form-inline">
+    <div class="form-group mt-2 mb-2">
+      <input type="text" class="form-group sz" placeholder="Buscar">
+      <button class="btn btn-outline-success me" >Buscar</button>
+    </div>
+  </form>
+
+</div>
+
+
+
+
